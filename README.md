@@ -82,6 +82,6 @@ This program consists of the following teams:
 ---
 
 ## 📢 Contact
-For any questions, reach out via GitHub Discussions or email **[your-email@example.com](mailto:your-email@example.com)**.
+For any questions, reach out via GitHub Discussions or email **alihassan372001@gmail.com**.
 
 🚀 **Happy coding and innovating!** 🚀
