@@ -10,17 +10,26 @@ Welcome to the **BrainSwarm NEST Spring 2025** internship program! This reposito
 │── 📜 README.md         # Introduction and guidelines
 │── 📜 CONTRIBUTING.md   # Instructions for contributions
 │── 📜 CODE_OF_CONDUCT.md # Community guidelines
-│── 📂 tasks             # Directory containing task descriptions
-│── 📂 submissions       # Directory for intern submissions
-│── 📂 resources         # Helpful materials and references
+│── 📂 STEMMERS          # Sub-repository for STEMMERS team
+│   ├── tasks/          # Directory containing task descriptions
+│   ├── submissions/    # Directory for intern submissions
+│   └── resources/      # Helpful materials and references
+│── 📂 Web_Development   # Sub-repository for Web Development team
+│   ├── tasks/          # Directory containing task descriptions
+│   ├── submissions/    # Directory for intern submissions
+│   └── resources/      # Helpful materials and references
+│── 📂 AI_Team           # Sub-repository for AI team
+│   ├── tasks/          # Directory containing task descriptions
+│   ├── submissions/    # Directory for intern submissions
+│   └── resources/      # Helpful materials and references
 ```
 ---
 
 ## 🚀 Teams & Leadership
 This program consists of the following teams:
-- 🛠 **STEMMERS Team** (Led by Engr.Ali Hassan)
-- 🌐 **Web Development Team** (Led by Engr.Ali Hassan)
-- 🤖 **AI Team** (Led by Engr.Ali Hassan)
+- 🛠 **STEMMERS Team** (Led by Engr. Ali Hassan)
+- 🌐 **Web Development Team** (Led by Engr. Ali Hassan)
+- 🤖 **AI Team** (Led by Engr. Ali Hassan)
 
 ---
 
@@ -34,7 +43,7 @@ This program consists of the following teams:
    cd BrainSwarm_NEST_Spring_2025
    ```
 3. **Check Out Open Tasks**
-   - Visit the `tasks/` directory to find assigned tasks.
+   - Visit the relevant team sub-repository (`STEMMERS/`, `Web_Development/`, `AI_Team/`).
    - Each task has a `README.md` with instructions and deadlines.
 
 ---
@@ -42,7 +51,7 @@ This program consists of the following teams:
 ## 📜 Task Allocation
 - ✅ Tasks will be assigned via GitHub Issues.
 - 🏷 Each intern should create a branch with their GitHub username before working on a task.
-- 📂 Submit completed work under the `submissions/` directory.
+- 📂 Submit completed work under the relevant team's `submissions/` directory.
 
 ---
 
@@ -51,7 +60,7 @@ This program consists of the following teams:
    ```bash
    git checkout -b your-username-task-name
    ```
-2. **Complete the task** and place the solution in `submissions/`
+2. **Complete the task** and place the solution in the appropriate team's `submissions/` folder.
 3. **Commit and push your changes**
    ```bash
    git add .
@@ -73,6 +82,6 @@ This program consists of the following teams:
 ---
 
 ## 📢 Contact
-For any questions, reach out via GitHub Discussions or email **alihassan372001@gmail.com**.
+For any questions, reach out via GitHub Discussions or email **[your-email@example.com](mailto:your-email@example.com)**.
 
 🚀 **Happy coding and innovating!** 🚀
